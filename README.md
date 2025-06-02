@@ -47,7 +47,7 @@
 ## 목차
 
 1. [서비스 개요](./Introduction.md)
-2. [주요 요구사항 및 유즈케이스](./Requirements.md)
+2. [주요 요구사항 및 유즈케이스](./Requirement.md)
 3. [시스템 아키텍처 & 컴포넌트](./Architecture.md)
 4. [데이터베이스 설계(ERD)](./Database.md)
 5. [상세 기능 설계 & 시퀀스](./FeatureDesign.md)
